@@ -23,16 +23,19 @@
 }
 
 /*
+
  width: 100vw;
   height: 510px;
-330px
-510px*/
+width:330px;
+height:510px; 
+
+*/
 
 .imgfloresta {
   background-image: url('imagens_pontos_turisticos/floresta_light_ao_sol.webp');
   border: 1px solid black;
   border-radius: 7px;
- background-size: 100vw 510px;
+ background-size: 90vw 510px;
 
 }
 
@@ -55,7 +58,7 @@
 
 header {
       background-repeat: no-repeat;
-      background-size: 100vw 510px;
+      background-size: 90vw 510px;
       border: 1px solid black;
       border-radius: 7px;
       padding-bottom: 110px;
