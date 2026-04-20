@@ -35,7 +35,7 @@ height:510px;
   background-image: url('imagens_pontos_turisticos/floresta_light_ao_sol.webp');
   border: 1px solid black;
   border-radius: 7px;
- background-size: 100vw 600px;
+ background-size: 100vw 650px;
 
 }
 
@@ -55,10 +55,15 @@ height:510px;
   color: rgb(99, 114, 89);
 }
 
+body {
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+}
 /*background-size: 100vw 580px;*/
 header {
       background-repeat: no-repeat;
-      width: 100% ;
+      width: 100vw ;
       height:500px;
       border: 1px solid black;
       border-radius: 7px;
