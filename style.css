@@ -99,8 +99,8 @@ h2 {
  img {
   border-radius:35px;
   padding: 4px;
-  width: 135px;
-  height: 140px;
+  width: 140px;
+  height: 155px;
   display:inline;
  }
 
@@ -112,6 +112,7 @@ h2 {
   text-align: center ;
   font-size: 22px;
   text-decoration: none;
+  color:blue;
  
 }
 
@@ -122,6 +123,10 @@ h2 {
 
  footer > h2 {
   font-size: 38px ;
+ }
+
+ footer div a {
+  color: white;
  }
 
  footer {
@@ -149,23 +154,23 @@ h2 {
   font-weight: bold;
  }
 
- footer > a {
-  position: absolute;
-  color: white;
-  text-decoration: none;
-  text-align: center;
- }
-
+/*14,86,169*/
  footer > h2 {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  font-size: 36px;
+  font-size: 45px;
   text-align: center;
-  color:rgb(14, 86, 169);
+  color:rgb(38, 101, 174);
   font-weight: bolder;
-  
  }
 
- 
+
+ footer > div {
+    display: flex;
+    justify-content: center; /* horizontal */
+    align-items: center;     /* vertical */
+    height: 5vh;           /* altura da tela */
+}
+
 
 
 
