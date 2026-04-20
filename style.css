@@ -61,7 +61,7 @@ header {
       background-size: 90vw 510px;
       border: 1px solid black;
       border-radius: 7px;
-      padding-bottom: 100px;
+      padding-bottom: 150px;
 
     }
 
@@ -93,8 +93,8 @@ h2 {
  img {
   border-radius:35px;
   padding: 4px;
-  width: 120px;
-  height: 110px;
+  width: 125px;
+  height: 115px;
   display:inline;
  }
 
