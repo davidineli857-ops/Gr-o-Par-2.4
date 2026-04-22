@@ -76,6 +76,10 @@ main {
     padding-top: 12px;
 }
 
+section > span {
+    font-size: 30px;
+ }
+
 h1 {
     text-align: center;
 }
@@ -91,9 +95,6 @@ h2 {
   font-size: 20px ;
  }
 
- section > span {
-    font-size: 30px;
- }
 
 
  img {
@@ -113,6 +114,8 @@ h2 {
   font-size: 22px;
   text-decoration: none;
   color:blue;
+  position: relative;
+  padding-bottom: 15px ;
  
 }
 
