@@ -27,7 +27,23 @@ p {
   text-indent: 20px;
 }
 
+main > div.esquerda {
+ display: inline-block;
+ justify-content: left;
+ border: 2px solid rgba(0, 0, 0, 0.925);
+ text-decoration: none;
+ background-color: white;
+ color: black;
+ margin-right: 72%;
+}
 
-.main > div {
+
+
+main > div.direita {
+ display: inline-block;
  justify-content: right;
+ border: 2px solid rgba(0, 0, 0, 0.925);
+ text-decoration: none;
+ background-color: white;
+ color: black;
 }
