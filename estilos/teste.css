@@ -2,20 +2,14 @@
 
 
 main div.esquerda {
- display: inline-block;
- justify-content: left;
  border: 2px solid rgba(0, 0, 0, 0.925);
  background-color: rgb(179, 169, 169);
  border-radius: 4px;
- margin-left: 5% ;
- margin-right: 30%;
  padding: 3px;
 } 
 
 
-main div.direita {
- display: inline-block;
- justify-content: right;
+main .esquerda,.direita {
  border: 2px solid rgba(0, 0, 0, 0.925);
  background-color: rgb(179, 169, 169);
  border-radius: 4px;
