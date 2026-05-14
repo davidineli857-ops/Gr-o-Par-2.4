@@ -27,7 +27,9 @@ body {
 }
 
 h2 {
-  color: rgb(22, 22, 204);
+   font-family: serif;
+  color: rgb(8, 10, 73);
+  text-align: center;
 }
 
 p { 
