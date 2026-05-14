@@ -49,7 +49,7 @@ main div a {
    text-decoration: none;
 }
 
-main .esquerda,.direita {
+main .esquerda,.direita,.meio {
  border: 2px solid rgba(0, 0, 0, 0.925);
  background-color: rgb(179, 169, 169);
  border-radius: 4px;
