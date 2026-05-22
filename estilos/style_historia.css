@@ -22,6 +22,23 @@
   
 }
 
+.quadro {
+      background-repeat: no-repeat;
+      width: 100vw ;
+      height:500px;
+      border: 1px solid black;
+      border-radius: 7px;
+      padding-bottom: 100px;
+
+
+    }
+.divisao {
+  background-image: url(../imagens_historia/divisao_na_cabanagem.png);
+ border: 1px solid black;
+  border-radius: 7px;
+ background-size: 100vw 650px;
+}
+
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
