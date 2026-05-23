@@ -22,6 +22,11 @@
   
 }
 
+.grandedemais {
+  display: flex;
+  width: 99vw;
+}
+
 .quadro {
       background-repeat: no-repeat;
       width: 100vw ;
