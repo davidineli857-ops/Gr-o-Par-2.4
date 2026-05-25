@@ -37,9 +37,15 @@
       
 
     }
+
+.imagens {
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
 .divisao {
   background-image: url(../imagens_historia/divisao_na_cabanagem.png);
- border: 1px solid black;
+ 
   border-radius: 7px;
  background-size: 100vw 650px;
 }
@@ -83,6 +89,7 @@ img {
   margin-top: 5px;
   width: 80%;
   height: 250px;
+  display: inline;
 
 }
 
