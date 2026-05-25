@@ -29,7 +29,8 @@
 
 .quadro {
       background-repeat: no-repeat;
-     background-size: 100vw 650px;
+     width: 100vw;
+     height: 500px;
       border: 1px solid black;
       border-radius: 7px;
       padding-bottom: 100px;
