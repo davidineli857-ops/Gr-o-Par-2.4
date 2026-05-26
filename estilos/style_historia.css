@@ -39,8 +39,9 @@
     }
 
 .imagens {
-  border: 1px solid black;
+  border: 1px solid rgba(0, 0, 0, 0.678);
   border-radius: 10px;
+  box-shadow: 1px 1px 1px black;
 }
 
 .divisao {
@@ -85,8 +86,8 @@ p {
 
 img {
   margin-left: 10%;
-  margin-bottom: 5px;
-  margin-top: 5px;
+  margin-bottom: 10px;
+  margin-top: 10px;
   width: 80%;
   height: 250px;
   display: inline;
