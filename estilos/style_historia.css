@@ -93,6 +93,28 @@ img {
 }
 
 
+  figure {
+    background-color: rgba(128, 128, 128, 0.337);
+    border:1px solid gray;
+    color: rgb(110, 0, 110);
+    display: flex;
+    flex-flow: row wrap;
+    border-radius: 4px;
+    margin-top: 20px;
+  }
+
+  figure img {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  figure figcaption {
+    padding-left: 15px;
+    padding-bottom: 15px;
+    font-weight: bolder;
+  }
+
+
 
 main div a {
   color: black;
