@@ -101,6 +101,7 @@ img {
     flex-flow: row wrap;
     border-radius: 5px;
     margin-top: 20px;
+    margin-left: 10px;
     width:500px ;
   }
 
