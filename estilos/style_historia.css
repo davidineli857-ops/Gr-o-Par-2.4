@@ -91,8 +91,7 @@ img {
   display: inline;
 
 }
-
-
+ 
   figure {
     background-color: rgba(128, 128, 128, 0.337);
     border:1px solid gray;
@@ -102,7 +101,8 @@ img {
     border-radius: 5px;
     margin-top: 20px;
     margin-left: 10px;
-    width: 380px;
+    width: 390px;
+    overflow-x: hidden;
    
   }
 
@@ -148,8 +148,6 @@ footer a {
   align-items: center;
 }
 
-footer > div {
-}
 
 footer a:hover {
   color: rgb(20, 63, 255);
