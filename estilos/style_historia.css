@@ -52,11 +52,13 @@
 }
 
 .imagens_paralax {
+  margin-top: 20px;
   background-color: gray;
   background-size: cover;
   background-attachment: fixed;
   background-position: center center;
   height: 350px;
+  border: 1px solid black;
 }
 
 #img01 {
@@ -163,6 +165,7 @@ footer {
 }
 
 footer p {
+  font-size: 20px;
   text-align: center;
 }
 
