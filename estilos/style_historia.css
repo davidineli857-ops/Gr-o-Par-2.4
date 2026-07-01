@@ -91,7 +91,7 @@ margin-bottom: 20px;
   display: flex;
   background-color: rgba(128, 128, 128, 0.337);
   flex-direction: nowrap;
-  margin: 10% 1% 10% 1%;
+  margin: 10% 2% 10% 2%;
   justify-content: center;
   align-items: center;
   border-radius: 3px;
@@ -182,12 +182,15 @@ main .esquerda,.direita,.meio {
 footer {
    border: 1px solid purple;
   background-color: purple;
+ 
 }
 
 footer p {
   font-size: 20px;
  text-align: center;
-  margin-right: 10%;
+  margin-right: 8%;
+  margin-top: 8px;
+  margin-bottom: 8px;
 }
 
 footer a {
@@ -196,6 +199,8 @@ footer a {
    display: flex;
   justify-content: center;
   align-items: center;
+   margin-top: 8px;
+  margin-bottom: 8px;
 }
 
 
