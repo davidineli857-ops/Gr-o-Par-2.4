@@ -186,7 +186,8 @@ footer {
 
 footer p {
   font-size: 20px;
-  text-align: center;
+ text-align: center;
+  margin-right: 10%;
 }
 
 footer a {
