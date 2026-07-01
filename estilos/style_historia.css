@@ -86,16 +86,20 @@ margin-top: 50px;
 margin-bottom: 20px;
 }
 
+
 .video {
   display: flex;
-  background-color: blue;
-  margin: 10% 5% 10% 5%;
+  background-color: rgb(142, 142, 142);
+  flex-direction: nowrap;
+  margin: 10% 2% 10% 2%;
   justify-content: center;
   align-items: center;
 }
 
 .video > iframe {
    height: 400px;
+   width: 430px;
+   flex-shrink: 1;
 }
 
 
