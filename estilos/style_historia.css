@@ -58,7 +58,7 @@
   background-attachment: fixed;
   background-position: 70% center;
   height: 350px;
-  border: 1px solid black;
+  border: 2px solid black;
 }
 
 #img01 {
@@ -89,13 +89,15 @@ margin-bottom: 20px;
 .video {
   position: relative;
   background-color: blue;
-  padding-bottom: 50%;
+  padding-bottom: 70%;
 
 }
 
 .video > iframe {
   position: absolute;
   margin-left: 10%;
+  margin-right: 10%;
+  width: 80%;
 }
 
 
