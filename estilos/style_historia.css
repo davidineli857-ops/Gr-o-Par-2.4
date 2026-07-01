@@ -87,17 +87,15 @@ margin-bottom: 20px;
 }
 
 .video {
-  position: relative;
+  display: flex;
   background-color: blue;
-  padding-bottom: 70%;
-
+  margin-bottom: 50%;
+  justify-content: center;
+  align-items: center;
 }
 
 .video > iframe {
-  position: absolute;
-  margin-left: 10%;
-  margin-right: 10%;
-  width: 80%;
+   
 }
 
 
