@@ -10,6 +10,22 @@
   text-align: center;
 }
 
+@font-face {
+  font-family:'../minhas_fontes/Bigshot_One/BigshotOne-Regular.ttf';
+}
+
+/*dancing script*/
+
+#principal_2 {
+  font-family:'../minhas_fontes/Bigshot_One/BigshotOne-Regular.ttf';
+  font-weight: 1000;
+  font-style: normal;
+  color: rgb(208, 18, 18);
+  font-size: 85px;
+  text-decoration: underline;
+  text-align: center;
+  
+}
 
 #principal{
   font-family: "Lobster", sans-serif;
