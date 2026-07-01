@@ -86,6 +86,18 @@ margin-top: 50px;
 margin-bottom: 20px;
 }
 
+.video {
+  position: relative;
+  background-color: blue;
+  padding-bottom: 50%;
+
+}
+
+.video > iframe {
+  position: absolute;
+  margin-left: 10%;
+}
+
 
 html,body {
   font-family: Arial, Helvetica, sans-serif;
