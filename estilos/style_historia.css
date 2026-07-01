@@ -51,10 +51,20 @@
   box-shadow: 1px 1px 1px black;
 }
 
+.imagens_largas {
+   border: 1px solid rgba(0, 0, 0, 0.678);
+  border-radius: 10px;
+  box-shadow: 1px 1px 1px black;
+  width: 90%;
+  margin: 10px 10px;
+  
+}
+
+
 .imagens_paralax {
   margin-top: 20px;
   background-color: gray;
-  background-size: cover;
+  background-size:cover;
   background-attachment: fixed;
   background-position: 70% center;
   height: 350px;
@@ -63,6 +73,12 @@
 
 #img01 {
     background-image: url('../historia_paraense/imagens_historia/tupinambas_lutando.png');
+    background-repeat: no-repeat;
+   
+ }
+
+ #img02 {
+    background-image: url('../historia_paraense/imagens_historia/cabanagem_igreja.jpg');
     background-repeat: no-repeat;
    
  }
