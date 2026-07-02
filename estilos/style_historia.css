@@ -24,7 +24,6 @@
   font-size: 70px;
   text-decoration: underline;
   text-align: center;
-  
 }
 
 #principal{
@@ -123,7 +122,7 @@
   border: 1px solid rgba(0, 0, 0, 0.678);
   border-radius: 10px;
   box-shadow: 1px 1px 1px black;
-  width: 50%;
+  width: 55%;
   height: 300px;
   margin-right: 2%;
   margin-left: 2%;
