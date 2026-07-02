@@ -110,6 +110,10 @@
  }
 
  .imagem_jornal {
+  h2 {
+    align-items: center;
+  }
+
   p {
     text-align: justify;
   }
@@ -123,7 +127,6 @@
   height: 300px;
   margin-right: 2%;
   margin-left: 2%;
-  margin-top: 65px;
   }
 
 
