@@ -109,6 +109,26 @@
  
  }
 
+ .imagem_jornal {
+  p {
+    text-align: justify;
+  }
+
+  img { 
+  float: right;
+  border: 1px solid rgba(0, 0, 0, 0.678);
+  border-radius: 10px;
+  box-shadow: 1px 1px 1px black;
+  width: 50%;
+  height: 300px;
+  margin-right: 2%;
+  margin-left: 2%;
+  margin-top: 65px;
+  }
+
+
+ }
+
 .divisao {
   background-image: url(../imagens_historia/divisao_na_cabanagem.png);
  
