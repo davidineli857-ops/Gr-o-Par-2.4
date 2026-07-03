@@ -108,6 +108,10 @@
  
  }
 
+ .img_bandeira {
+  background-image: url('../bandeira_para.jpg');
+ }
+
  .imagem_jornal {
   h2 {
     align-items: center;
@@ -133,7 +137,7 @@
  }
 
 .divisao {
-  background-image: url(../historia_paraense/imagens_historia/divisao_na_cabanagem.png);
+  background-image: url(../historia_paraense/imagens_historia/divisao_cabana_cell.png);
  
   border-radius: 7px;
  background-size: 100vw 650px;
