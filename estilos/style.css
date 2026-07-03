@@ -106,15 +106,20 @@ h2 {
   display:inline;
  }
 
+ main a {
+  margin-bottom: 20px;
+  text-align: right;
+  display: inline-block;
+}
 
 
 
  a{
-  text-align: center ;
+  text-align: center;
   font-size: 22px;
   text-decoration: none;
   color:blue;
- 
+
 }
 
  a:hover{

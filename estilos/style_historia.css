@@ -126,13 +126,14 @@
   height: 300px;
   margin-right: 2%;
   margin-left: 2%;
+  margin-bottom: 2px;
   }
 
 
  }
 
 .divisao {
-  background-image: url(../imagens_historia/divisao_na_cabanagem.png);
+  background-image: url(../historia_paraense/imagens_historia/divisao_na_cabanagem.png);
  
   border-radius: 7px;
  background-size: 100vw 650px;
