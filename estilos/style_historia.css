@@ -16,15 +16,6 @@
 
 /*dancing script*/
 
-#principal_2 {
-  font-family:'../minhas_fontes/Bigshot_One/BigshotOne-Regular.ttf';
-  font-weight: bolder;
-  font-style: normal;
-  color: rgb(208, 18, 18);
-  font-size: 70px;
-  text-decoration: underline;
-  text-align: center;
-}
 
 #principal{
   font-family: "Lobster", sans-serif;
@@ -36,6 +27,28 @@
   text-align: center;
   
 }
+ 
+#principal_2 {
+  font-family:'../minhas_fontes/Bigshot_One/BigshotOne-Regular.ttf';
+  font-weight: bolder;
+  font-style: normal;
+  color: rgb(208, 18, 18);
+  font-size: 80px;
+  text-decoration: underline;
+  text-align: center;
+}
+
+#principal_3 {
+  font-family: '../minhas_fontes/Bebas_Neue/';
+  font-weight: bolder;
+  font-style: normal;
+  color: rgb(208, 18, 18);
+  font-size: 70px;
+  text-decoration: none;
+  text-align: center;
+}
+
+
 
 
 
@@ -149,7 +162,7 @@
 
 .ribeiro {
   background-image: url(../historia_paraense/imagens_historia/pexels-ribeirinho_light.webp);
-  background-size: 100vw 650px ;
+  background-size: cover;
 }
 
 .fuga {
@@ -157,6 +170,7 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+
 
 .botoes {
 display: flex;
@@ -205,7 +219,7 @@ h3 {
 p { 
   text-align: justify;
   text-indent: 20px;
-  margin: 0px 7px 0px 7px;
+  margin: 0px 8px 0px 8px;
   line-height: 27px;
 }
 
