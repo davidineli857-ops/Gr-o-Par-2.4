@@ -100,16 +100,20 @@
    
  }
 
+ .batalha_final {
+  background-image: url('../historia_paraense/imagens_historia/batalha_final.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+ }
+
+ 
+
  .img_cabanagem
  {
   background-image: url('../historia_paraense/imagens_historia/cabanagem_noite.png');
   background-repeat: no-repeat;
  background-size: cover;
  
- }
-
- .img_bandeira {
-  background-image: url('../bandeira_para.jpg');
  }
 
  .imagem_jornal {
