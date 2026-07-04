@@ -49,9 +49,6 @@
 }
 
 
-
-
-
 .quadro {
       background-repeat: no-repeat;
      width: 100vw;
@@ -157,7 +154,7 @@
   background-image: url(../historia_paraense/imagens_historia/divisao_cabana_cell.png);
  
   border-radius: 7px;
- background-size: 100vw 650px;
+ background-size: cover;
 }
 
 .ribeiro {
@@ -219,7 +216,7 @@ h3 {
 p { 
   text-align: justify;
   text-indent: 20px;
-  margin: 0px 8px 0px 8px;
+  margin: 0px 8px 5px 8px;
   line-height: 27px;
 }
 
