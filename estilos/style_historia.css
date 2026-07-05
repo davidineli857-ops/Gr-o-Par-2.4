@@ -203,6 +203,35 @@ html,body {
   padding: 0;
 }
 
+table {
+  width: 80%;
+  margin: auto;
+  border-collapse: collapse;
+} 
+
+caption {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+table {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+thead  {
+  background-color:black;
+  color: white;
+  border-radius: 3px;
+}
+
+th {
+  border: 2px solid black;
+  font-size: 16px;
+}
+
+
+
 h2 {
    font-family: serif;
   color: rgb(8, 10, 73);
