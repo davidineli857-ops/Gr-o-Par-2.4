@@ -204,9 +204,11 @@ html,body {
 }
 
 table {
-  width: 80%;
+  width: 86%;
   margin: auto;
   border-collapse: collapse;
+  margin-top: 20px;
+  margin-bottom: 20px;
 } 
 
 caption {
