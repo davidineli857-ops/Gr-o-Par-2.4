@@ -137,13 +137,15 @@ footer a {
    display: flex;
   justify-content: center;
   align-items: center;
-   margin-top: 8px;
-  margin-bottom: 8px;
+  font-size: larger;
+  font-weight: bold;
+
 }
 
 
 footer a:hover {
   color: rgb(20, 63, 255);
+  text-decoration: underline;
 }
 
 
