@@ -67,6 +67,7 @@
     border-radius: 7px;
     background-color: black;
     margin-top: 0;
+    overflow-x: hidden;
   }
 
 .imagem_jornal {
