@@ -23,7 +23,7 @@
   font-style: normal;
   color: rgb(208, 18, 18);
   font-size: 80px;
-  text-decoration: underline;
+  text-decoration:none;
   text-align: center;
   
 }
@@ -81,6 +81,30 @@
   margin-bottom: 2px;
   }
 }
+
+.imagem_jornal_2 {
+  h2 {
+    align-items: center;
+  }
+
+  p {
+    text-align: justify;
+  }
+
+  img { 
+  float: right;
+  border: 1px solid rgba(0, 0, 0, 0.678);
+  border-radius: 10px;
+  box-shadow: 1px 1px 1px black;
+  width: 50%;
+  height: 230px;
+  margin-top: 10% ;
+  margin-right: 2%;
+  margin-left: 2%;
+  margin-bottom: 2px;
+  }
+}
+
 
 .img_raios {
     background-image: url('../curiosidades/imagens_curiosidades/raios-para.webp');
@@ -140,7 +164,7 @@ footer a {
   justify-content: center;
   align-items: center;
   margin-top: -10px;
-  margin-bottom: 2px;
+  margin-bottom: 3px;
   font-size: large;
   font-weight: bold;
 
