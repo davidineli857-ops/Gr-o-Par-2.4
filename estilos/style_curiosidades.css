@@ -49,6 +49,17 @@
   text-align: center;
 }
 
+#principal_dourado{
+  font-family: "Lobster", sans-serif;
+  font-weight: 1000;
+  font-style: normal;
+  color: rgb(255, 232, 20);
+  font-size: 80px;
+  text-decoration:none;
+  text-align: center;
+  
+}
+
 .quadro {
       background-repeat: no-repeat;
      width: 100%;
@@ -129,6 +140,11 @@
 .img_rua_vazia {
   background-image: url('../curiosidades/imagens_curiosidades/rua_vazia.jpg');
   background-size: cover;
+}
+
+.img_el_dorado {
+  background-image: url('../curiosidades/imagens_curiosidades/el_dorado.png');
+ background-size: cover;
 }
 
 .video {
