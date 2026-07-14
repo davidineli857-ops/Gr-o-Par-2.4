@@ -154,10 +154,12 @@ img {
 
 a { 
   text-decoration: none;
+  color: rgb(45, 0, 87);
 }
 
 a:hover {
   text-decoration: underline;
+  color: rgb(45, 0, 87);
 }
 
 footer {
