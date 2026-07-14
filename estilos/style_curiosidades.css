@@ -15,6 +15,7 @@
 }
 
 /*dancing script*/
+/* <li><a href="curiosidades/culinaria.html">Com fome?dê uma olhada na culinária que foi eleita a sétima melhor do planeta</a></li>*/
 
 
 #principal{
@@ -195,4 +196,15 @@ footer a:hover {
   text-decoration: underline;
 }
 
+footer > p {
+  font-size: 20px;
+  color: white;
+  font-weight: bold;
+
+}
+
+footer > p > a {
+  display: inline;
+  font-weight: bolder;
+}
 
