@@ -120,7 +120,29 @@
   border-radius: 10px;
   box-shadow: 1px 1px 1px black;
   width: 50%;
-  height: 270px;
+  height: 275px;
+  margin-right: 2%;
+  margin-left: 2%;
+  margin-bottom: 2px;
+  }
+}
+
+.imagem_jornal_reverso {
+  h2 {
+    align-items: center;
+  }
+
+  p {
+    text-align: justify;
+  }
+
+  img { 
+  float: left;
+  border: 1px solid rgba(0, 0, 0, 0.678);
+  border-radius: 10px;
+  box-shadow: 1px 1px 1px black;
+  width: 50%;
+  height: 275px;
   margin-right: 2%;
   margin-left: 2%;
   margin-bottom: 2px;
