@@ -151,6 +151,9 @@
   }
 }
 
+.ultimo_a {
+  padding-bottom:12px ;
+}
 
 .centro {
   text-align: center;
@@ -194,6 +197,10 @@ h2 {
      color: rgb(8, 10, 73);
 }
 
+h2:hover {
+  font-size: 28px;
+}
+
 img {
   margin-left:2% ;
     width: 96%;
@@ -219,8 +226,9 @@ a {
 }
 
 a:hover {
-  text-decoration: underline;
+   text-decoration: underline;
   color: rgb(45, 0, 87);
+  font-size: 21px;
 }
 
 footer {
