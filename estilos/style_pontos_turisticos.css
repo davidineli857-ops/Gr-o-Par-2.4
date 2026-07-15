@@ -151,6 +151,12 @@
   }
 }
 
+
+.centro {
+  text-align: center;
+  padding-top: 10px;
+}
+
  .img_barco {
   background-image: url('../turismo/imagens_turismo/pexels-umbarco.jpg');
   background-size: cover;
@@ -202,10 +208,14 @@ main strong  {
   font-size: 18px;
 }
 
+
 a { 
   text-decoration: none;
-  color: rgb(45, 0, 87);
-  align-items: center;
+   color: rgb(45, 0, 87);
+  text-align: center;
+  font-size: 19px;
+  
+  
 }
 
 a:hover {
