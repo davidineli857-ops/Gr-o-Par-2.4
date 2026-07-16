@@ -250,6 +250,31 @@ a:hover {
   font-size: 21px;
 }
 
+ figure {
+    background-color: rgba(128, 128, 128, 0.337);
+    border:1px solid gray;
+    color: rgb(110, 0, 110);
+    display: flex;
+    flex-flow: row wrap;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-left: 10px;
+    width: 390px;
+    overflow-x: hidden;
+   
+  }
+
+ figure img {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+ figure figcaption {
+    padding-left: 15px;
+    padding-bottom: 15px;
+    font-weight: bolder;
+  }
+
 footer {
    border: 1px solid purple;
   background-color: purple;
