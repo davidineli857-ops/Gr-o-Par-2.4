@@ -258,8 +258,9 @@ a:hover {
     flex-flow: row wrap;
     border-radius: 5px;
     margin-top: 20px;
-    margin-left: 10px;
-    width: 390px;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%;
     overflow-x: hidden;
    
   }
