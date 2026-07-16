@@ -261,6 +261,8 @@ a:hover {
     margin-left: 5%;
     margin-right: 5%;
     width: 90%;
+    padding-left: 10px;
+    padding-right: 10px;
     overflow-x: hidden;
    
   }
