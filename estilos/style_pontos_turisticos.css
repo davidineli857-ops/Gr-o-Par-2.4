@@ -173,6 +173,12 @@
   background-position: center center;
 }
 
+.img_ver_o_peso {
+  background-image: url('../imagens_gerais/chat_\ imagelight2._belem_noite.webp');
+  background-size: cover;
+  background-position: center center;
+}
+
 video {
   display: flex;
   background-color: rgba(128, 128, 128, 0.337);
