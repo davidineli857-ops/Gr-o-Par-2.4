@@ -172,6 +172,14 @@
   border: 2px solid black;
 }
 
+.img_lado_a_lado {
+  display: inline;
+   border-radius: 30px;
+   border: 1px solid black;
+   height: 200px;
+   width: 180px;
+   box-shadow: 1px 1px 1px black;
+}
 .ultimo_a {
   padding-bottom:12px ;
   margin-bottom: 7px;
@@ -215,6 +223,11 @@
   background-position: center center;
 }
 
+.img_barcos_marajo {
+  background-image: url('../turismo/imagens_turismo/barcos_a_deriva_cell.png');
+  background-size: cover;
+  background-position: center center ;
+}
 video {
   display: flex;
   background-color: rgba(128, 128, 128, 0.337);
