@@ -227,6 +227,10 @@ thead  {
   border-radius: 3px;
 }
 
+thead th { 
+  padding: 10px;
+}
+
 th {
   border: 2px solid black;
   font-size: 16px;
