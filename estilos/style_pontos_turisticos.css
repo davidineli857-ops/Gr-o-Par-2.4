@@ -172,14 +172,21 @@
   border: 2px solid black;
 }
 
-.img_lado_a_lado {
-  display: inline-block;
+.img_lado_pai {
+  display: flex;
+  gap: 6px;
+  margin-left: -10px;
+  
+   
+}
+
+.img_lado_filho {
    border-radius: 30px;
    border: 1px solid black;
    height: 200px;
-   width: 120px;
+   flex: 1;
+   width: 50%;
    box-shadow: 1px 1px 1px black;
-   
 }
 .ultimo_a {
   padding-bottom:12px ;
@@ -260,7 +267,11 @@ h2:hover {
 
 h3 {
   text-align: center;
+  display: block;
+   color: rgb(45, 0, 87);
+
 }
+
 img {
   margin-left:2% ;
     width: 96%;
