@@ -73,7 +73,9 @@
 
 #img_lado_pai {
   display: flex;
-  gap: 2px;
+  gap: 2%;
+  margin-left: 2%;
+  margin-right: 2%;
  
   
    
@@ -83,8 +85,8 @@
    border-radius: 30px;
    border: 1px solid black;
    height: 200px;
-   flex: 1;
-   max-width: 45%;
+  
+   max-width: 47%;
    box-shadow: 1px 1px 1px black;
 }
 
