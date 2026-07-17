@@ -274,6 +274,9 @@ h3 {
    color: rgb(45, 0, 87);
 
 }
+h3:hover {
+  font-size: 21px;
+}
 
 img {
   margin-left:2% ;
