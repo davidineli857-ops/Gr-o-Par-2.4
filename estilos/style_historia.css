@@ -219,12 +219,14 @@ caption {
 table {
   margin-top: 20px;
   margin-bottom: 20px;
+  width: 96%;
 }
 
 thead  {
   background-color:black;
   color: white;
   border-radius: 3px;
+ 
 }
 
 thead th { 
