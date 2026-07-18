@@ -111,7 +111,7 @@
  }
 
  .batalha_final {
-  background-image: url('../historia_paraense/imagens_historia/batalha_final.png');
+  background-image: url('../historia_paraense/imagens_historia/batalha_final_light.webp');
   background-repeat: no-repeat;
   background-size: cover;
  }
@@ -151,14 +151,14 @@
  }
 
 .divisao {
-  background-image: url(../historia_paraense/imagens_historia/divisao_cabana_cell.png);
+  background-image: url('../historia_paraense/imagens_historia/divisao_cabana_cell_light.webp');
  
   border-radius: 7px;
  background-size: cover;
 }
 
 .ribeiro {
-  background-image: url(../historia_paraense/imagens_historia/pexels-ribeirinho_light.webp);
+  background-image: url('../historia_paraense/imagens_historia/pexels-ribeirinho_light.webp');
   background-size: cover;
 }
 
