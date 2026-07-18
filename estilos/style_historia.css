@@ -98,8 +98,8 @@
   border: 2px solid black;
 }
 
-#img01 {
-    background-image: url('../historia_paraense/imagens_historia/tupinambas_lutando.png');
+#img_guerra_tupinamba {
+    background-image: url('../historia_paraense/imagens_historia/tupinambas_lutando_cell_light.webp');
     background-repeat: no-repeat;
    
  }
@@ -163,7 +163,7 @@
 }
 
 .fuga {
-  background-image: url('../historia_paraense/imagens_historia/fuga_no_rio2.png');
+  background-image: url('../historia_paraense/imagens_historia/fuga_no_rio_light.webp');
   background-repeat: no-repeat;
   background-size: cover;
 }
