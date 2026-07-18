@@ -217,7 +217,7 @@
 }
 
 .img_ver_o_peso {
-  background-image: url('../turismo/imagens_turismo/ver_o_peso_a_noite_cell.png');
+  background-image: url('../turismo/imagens_turismo/ver_o_peso_a_noite_cell_light.webp');
   background-size: cover;
   background-position: center center;
 }
@@ -229,7 +229,7 @@
 }
 
 .img_teatro_noite {
-  background-image: url('../turismo/imagens_turismo/teatro_noite_cell.png');
+  background-image: url('../turismo/imagens_turismo/teatro_noite_cell_light.webp');
   background-size: cover;
   background-position: center center;
 }
