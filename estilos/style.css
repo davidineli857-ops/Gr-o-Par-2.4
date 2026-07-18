@@ -48,10 +48,12 @@ height:510px;
   background-image: url('../imagens_gerais/floresta_ao_sol_light.webp');
   border: 1px solid black;
   border-radius: 7px;
- background-size: cover;
- background-position: center center;
+ background-size:100vw 600px;
+ 
 
 }
+
+/*background-size:100vw 500px;*/
 
 .centro {
   text-align: center;
@@ -63,6 +65,10 @@ height:510px;
 
 .direita {
   text-align: right;
+}
+
+.arreda_de_cima {
+  padding-top: 15px;
 }
 
 .emoji_espada {
