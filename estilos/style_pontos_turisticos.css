@@ -273,9 +273,11 @@ h3 {
   display: block;
    color: rgb(45, 0, 87);
 
+  
+
 }
 h3:hover {
-  font-size: 21px;
+  font-size: 22px;
 }
 
 img {
