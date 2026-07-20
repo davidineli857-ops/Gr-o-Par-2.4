@@ -49,7 +49,7 @@
 }
 
 
-.quadro {
+    .quadro {
       background-repeat: no-repeat;
      width: 100%;
      height: 600px;
@@ -62,10 +62,10 @@
     }
 
   .quadro_negro {
-    width: 100vw;
+    width: 100%;
     height: 350px;
     border: 1px solid black;
-    border-radius: 7px;
+    border-radius: 10px;
     background-color: black;
     margin-top: 0;
   }
@@ -160,6 +160,7 @@
 .ribeiro {
   background-image: url('../historia_paraense/imagens_historia/pexels-ribeirinho_light.webp');
   background-size: cover;
+  background-position: center center;
 }
 
 .fuga {
