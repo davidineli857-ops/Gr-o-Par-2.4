@@ -218,10 +218,9 @@ html,body {
 }
 
 table {
-  width: 84%;
-  margin-left: 7%;
-  margin-right: 9%;
-  border-collapse: collapse;
+  width: 70%;
+  margin-left: 2%;
+  margin-right: 2%;
   margin-top: 20px;
   margin-bottom: 20px;
 } 
@@ -231,11 +230,6 @@ caption {
   font-weight: bold;
 }
 
-table {
-  margin-top: 20px;
-  margin-bottom: 20px;
-  width: 80%;
-}
 
 thead  {
   background-color:black;
