@@ -43,7 +43,7 @@
   font-weight: bolder;
   font-style: normal;
   color: rgb(208, 18, 18);
-  font-size: 70px;
+  font-size: 60px;
   text-decoration: none;
   text-align: center;
 }
@@ -194,6 +194,10 @@ margin-bottom: 20px;
    flex-shrink: 1;
    flex-grow: 1;
    border-radius: 3px;
+}
+
+.arreda{
+  margin-bottom: 22px;
 }
 
 .arreda_de_cima {
