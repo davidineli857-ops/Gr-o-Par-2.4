@@ -223,6 +223,7 @@ table {
   margin-right: 2%;
   margin-top: 20px;
   margin-bottom: 20px;
+   border-collapse: collapse;
 
 } 
 
@@ -240,7 +241,7 @@ thead  {
 }
 
 thead th { 
-  padding: 4px;
+  padding: 5px;
 }
 
 th {
