@@ -223,7 +223,7 @@ table {
   margin-right: 2%;
   margin-top: 20px;
   margin-bottom: 20px;
-   border-collapse: collapse;
+  
 
 } 
 
@@ -340,6 +340,7 @@ main .esquerda,.direita,.meio {
 footer {
    border: 1px solid purple;
   background-color: purple;
+  margin-top: 20px;
  
 }
 
