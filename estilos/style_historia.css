@@ -218,8 +218,9 @@ html,body {
 }
 
 table {
-  width: 86%;
-  margin: auto;
+  width: 84%;
+  margin-left: 7%;
+  margin-right: 9%;
   border-collapse: collapse;
   margin-top: 20px;
   margin-bottom: 20px;
