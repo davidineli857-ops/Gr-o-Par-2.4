@@ -68,6 +68,7 @@
       border-radius: 7px;
       padding-bottom: 100px;
       margin-top: 0;
+      margin: 1.5%;
       
 
     }
@@ -189,12 +190,15 @@
 
 body {
     overflow-x: hidden;
+     margin: 0;
+  padding: 0;
 }
 
 p { 
  text-align: justify;
  text-indent: 20px;
  font-size: 18px;
+ margin: 0.8%;
 }
 
 h2 {
@@ -229,6 +233,7 @@ a:hover {
 footer {
    border: 1px solid purple;
   background-color: purple;
+ 
  
 }
 
