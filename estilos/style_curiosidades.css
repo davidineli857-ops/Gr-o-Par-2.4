@@ -149,6 +149,14 @@
   }
 }
 
+.arreda{
+  margin-bottom: 22px;
+}
+
+.arreda_de_cima {
+  padding-top: 22px;
+}
+
 
 .img_raios {
     background-image: url('../curiosidades/imagens_curiosidades/raios_light.webp');
