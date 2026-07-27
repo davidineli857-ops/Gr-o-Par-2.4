@@ -207,11 +207,29 @@ h2:hover {
 #demonstracao {
   font-size: 20px;
   color: rgb(222, 174, 0);
+ 
 }
 
 /*<div id="demonstracao" onclick="chamada()">
         <p>só o mel da rabiola</p>
-      </div>*/
+      </div>      
+      
+      
+      <script>
+        var mel = window.document.getElementById("demonstracao")
+        mel.addEventListener("click",chamada)
+        mel.addEventListener("click",saida)
+        function chamada() {
+          mel.innerHTML = "só o mel da rabiola"
+          mel.style.color = "{222, 174, 0}"
+        }
+        
+        function saida() {
+          mel.innerHTML = "oi"
+          mel.style.color = "white"
+        }
+
+      </script>*/
 
 
 
