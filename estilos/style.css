@@ -145,6 +145,7 @@ h2:hover {
 
  footer > h2 {
   font-size: 38px ;
+ 
  }
 
  footer div a {
@@ -163,6 +164,7 @@ h2:hover {
  footer > p {
   color: white;
   font-weight: bolder;
+  font-style: italic;
  }
 
 
@@ -176,6 +178,7 @@ h2:hover {
   font-weight: bold;
   padding-top: 10px;
   margin-top: 10px;
+ 
  }
 
   footer > ul > li > a:hover {
