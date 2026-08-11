@@ -37,7 +37,7 @@
      <footer>
        <div class="centro"><a href = "../abertura.html">Voltar</a></div>
 
-      <p id="c">c</p>
+      <p id="c" onclick="zoas()">c</p>
      </footer>
 
      <script>
@@ -45,7 +45,12 @@
       zueira.addEventListener("click",zoas)
 
       function zoas() {
-        zueira.innerText = "Pablo e Keith,façam o L bem devagar"
+        if (zueira.innerText = "c") {
+            zueira.innerText = "Pablo e Keith,façam o L bem devagar"
+        }  else if ( zueira.innerHTML = "Pablo e Keith,façam o L bem devagar") {
+          zueira.innerText = "c"
+        }
+      
       }
      </script>
 
