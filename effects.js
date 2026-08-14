@@ -4,4 +4,4 @@ setTimeout(function() {
 
     setTimeout(function() {
          window.location.href = "abertura.html"
-        },2800) },3450)
+        },2700) },3450)
