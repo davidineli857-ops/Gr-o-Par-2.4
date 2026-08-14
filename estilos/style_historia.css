@@ -415,7 +415,7 @@ figure {
 }
 
 .batalha_final {
-  background-image: url('../historia_paraense/imagens_historia/batalha_final.png');
+  background-image: url('../historia_paraense/imagens_historia/batalha_final_light.webp');
   background-position: center center;
 
 
@@ -423,7 +423,7 @@ figure {
 
 
  .fuga {
-  background-image: url('../historia_paraense/imagens_historia/fuga_no_rio.png');
+  background-image: url('../historia_paraense/imagens_historia/fuga_no_rio_light.webp');
   background-position: center;
  
 }
