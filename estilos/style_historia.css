@@ -111,7 +111,7 @@
  }
 
  .batalha_final {
-  background-image: url('../historia_paraense/imagens_historia/batalha_final_light.webp');
+  background-image: url('../historia_paraense/imagens_historia/batalha_final_cell_light.webp');
   background-repeat: no-repeat;
   background-size: cover;
  }
@@ -400,12 +400,12 @@ footer > div > a:hover {
 
 @media screen and (min-width:610px) {
  
- divisao {
+ .divisao {
   background-image: url('../historia_paraense/imagens_historia/divisao_cabana_light.webp');
  
   border-radius: 7px;
  background-size: cover;
- background-position: 50% 30%;
+ background-position: center;
 }
 
 
@@ -414,6 +414,12 @@ figure {
   padding-right: 0;
 }
 
+.batalha_final {
+  background-image: url('../historia_paraense/imagens_historia/batalha_final.png');
+  background-position: center center;
+
+
+ }
 
 }
 
