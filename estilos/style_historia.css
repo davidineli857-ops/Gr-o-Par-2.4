@@ -299,6 +299,12 @@ img {
   display: inline;
 
 }
+
+  .fig {
+   display: flex;
+ 
+  
+  }
  
   figure {
     background-color: rgba(128, 128, 128, 0.337);
@@ -311,6 +317,9 @@ img {
     margin-left: 10px;
     width: 390px;
     overflow-x: hidden;
+     flex-grow: 1;
+     flex-shrink: 1;
+    
    
   }
 
