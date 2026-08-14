@@ -302,6 +302,9 @@ img {
 
   .fig {
    display: flex;
+   justify-content: center;
+   align-items: center;
+  
  
   
   }
@@ -314,11 +317,14 @@ img {
     flex-flow: row wrap;
     border-radius: 5px;
     margin-top: 20px;
-    margin-left: 10px;
+ 
+   
     width: 390px;
     overflow-x: hidden;
      flex-grow: 1;
      flex-shrink: 1;
+    
+     
     
    
   }
