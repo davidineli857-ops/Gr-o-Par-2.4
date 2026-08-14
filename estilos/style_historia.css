@@ -157,6 +157,7 @@
  background-size: cover;
 }
 
+
 .ribeiro {
   background-image: url('../historia_paraense/imagens_historia/pexels-ribeirinho_light.webp');
   background-size: cover;
@@ -317,7 +318,8 @@ img {
     flex-flow: row wrap;
     border-radius: 5px;
     margin-top: 20px;
- 
+     padding-left: 10px;
+     padding-right: 10px;
    
     width: 390px;
     overflow-x: hidden;
@@ -393,6 +395,21 @@ footer > div > a {
 
 footer > div > a:hover {
    font-size: 23px;
+}
+
+
+@media screen and (min-width:610px) {
+ 
+ divisao {
+  background-image: url('../historia_paraense/imagens_historia/divisao_cabana_light.webp');
+ 
+  border-radius: 7px;
+ background-size: cover;
+ background-position: 50% 30%;
+}
+
+
+
 }
 
 
