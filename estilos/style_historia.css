@@ -318,10 +318,12 @@ img {
     flex-flow: row wrap;
     border-radius: 5px;
     margin-top: 20px;
-     padding-left: 10px;
-     padding-right: 10px;
+    margin-left: 5% ;
+    margin-right: 5% ;
+     padding-left: 5px;
+     padding-right: 5px;
    
-    width: 390px;
+    width: 90%;
     overflow-x: hidden;
      flex-grow: 1;
      flex-shrink: 1;
