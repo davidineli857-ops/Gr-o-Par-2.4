@@ -91,6 +91,15 @@
    
   }
 
+
+
+  .titulo_no_meio {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+ }
+
 .imagem_jornal {
   h2 {
     align-items: center;
