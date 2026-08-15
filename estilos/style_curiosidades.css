@@ -83,6 +83,8 @@
     overflow-x: hidden;
     overflow-y: hidden;
    
+
+   
   
    
 
@@ -174,12 +176,12 @@
 }
 
 .img_rua_vazia {
-  background-image: url('../curiosidades/imagens_curiosidades/rua_vazia_2_light.webp');
+  background-image: url('../curiosidades/imagens_curiosidades/rua_vazia_cell_light.webp');
   background-size: cover;
 }
 
 .img_el_dorado {
-  background-image: url('../curiosidades/imagens_curiosidades/el_dorado_cell_light\ \(1\).webp');
+  background-image: url('../curiosidades/imagens_curiosidades/el_dorado_cell_light.webp');
  background-size: cover;
 }
 
@@ -199,6 +201,8 @@ body {
   
  
 }
+
+
 
 p { 
  text-align: justify;
@@ -289,3 +293,24 @@ footer > p > a {
   font-weight: bolder;
 }
 
+
+
+
+
+
+@media screen and (min-width:610px) {
+
+  .img_el_dorado {
+  background-image: url('../curiosidades/imagens_curiosidades/el_dorado.png');
+  background-position: 20%;
+
+}
+
+
+.img_rua_vazia {
+  background-image: url('../curiosidades/imagens_curiosidades/rua_vazia.png');
+ background-position: center;
+}
+
+
+}
