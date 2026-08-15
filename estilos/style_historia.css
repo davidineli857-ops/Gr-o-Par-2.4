@@ -120,7 +120,7 @@
 
  .img_cabanagem
  {
-  background-image: url('../historia_paraense/imagens_historia/cabanagem_noite_light.webp');
+  background-image: url('../historia_paraense/imagens_historia/cabanagem_noite_cell_light.webp');
   background-repeat: no-repeat;
  background-size: cover;
  
@@ -224,6 +224,7 @@ table {
   margin-right: 2%;
   margin-top: 20px;
   margin-bottom: 20px;
+  flex-grow: 1;
   
 
 } 
@@ -301,7 +302,7 @@ img {
 
 }
 
-  .fig {
+  .resp {
    display: flex;
    justify-content: center;
    align-items: center;
@@ -429,6 +430,15 @@ figure {
   background-position: center;
  
 }
+
+
+.img_cabanagem
+ {
+  background-image: url('../historia_paraense/imagens_historia/cabanagem_noite.png');
+  background-position: center;
+
+ 
+ }
 
 }
 
