@@ -301,14 +301,14 @@ footer > p > a {
 @media screen and (min-width:610px) {
 
   .img_el_dorado {
-  background-image: url('../curiosidades/imagens_curiosidades/el_dorado.png');
+  background-image: url('../curiosidades/imagens_curiosidades/el_dorado_light.webp');
   background-position: 20%;
 
 }
 
 
 .img_rua_vazia {
-  background-image: url('../curiosidades/imagens_curiosidades/rua_vazia.png');
+  background-image: url('../curiosidades/imagens_curiosidades/rua_vazia_light.webp');
  background-position: center;
 }
 
