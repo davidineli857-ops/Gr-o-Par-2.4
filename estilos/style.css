@@ -31,6 +31,20 @@ height:510px;
 
 */
 
+.escuro {
+  background-color: black;
+  color: red;
+}
+
+.botão_tema {
+   display: flex;
+   justify-content: flex-end;
+
+}
+
+
+
+
 
 .quadro {
       background-repeat: no-repeat;
@@ -213,7 +227,36 @@ h2:hover {
  
 }
 
-/*<div id="demonstracao" onclick="chamada()">
+@media screen and (min-width:610px) {
+
+  .botão_tema {
+    width: 14%;
+  }
+
+}
+
+/*
+ 
+   <div class="botão_tema"><input type="button" id="tema" value="Modo Escuro" onclick="noturno(); troca()"></div>
+
+   input {
+  color: white;
+  background-color: rgb(47, 75, 255);
+  border-radius: 2px;
+  padding: 3px;
+  position: sticky;
+ z-index: 1;
+ top: 0;
+ 
+  width: 20%;
+  height: 30px;
+}
+
+
+
+
+
+<div id="demonstracao" onclick="chamada()">
         <p>só o mel da rabiola</p>
       </div>      
       
