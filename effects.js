@@ -1,13 +1,3 @@
-/*setTimeout(function() {
-    document.body.classList.add("saida")
-
-
-    setTimeout(function() {
-         window.location.href = "abertura.html"
-        },2700) },3450)
-
-
-
 
 function noturno() {
    document.body.classList.toggle("escuro")
@@ -25,6 +15,6 @@ function noturno() {
        padrao.value = "Modo Escuro"
       }
  }
-) */
+) 
 
 

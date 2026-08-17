@@ -31,17 +31,41 @@ height:510px;
 
 */
 
+
+.botao_tema {
+  width: 100vw;
+  display: flex;
+  justify-content:;
+   position: sticky; 
+  top: 0; 
+  z-index: 1;
+  height: 0;
+}
+
+input {
+border-radius: 10px;
+
+width: 20%;
+
+ background-color: blue;
+ color: white;
+ height: 20px;
+ border: 1px solid black;
+}
+
 .escuro {
   background-color: black;
   color: red;
+
+ footer {
+  background-color:blue;
+ }
+
+ footer h2 {
+  color: black;
+ }
+
 }
-
-.botão_tema {
-   display: flex;
-   justify-content: flex-end;
-
-}
-
 
 
 
@@ -237,7 +261,7 @@ h2:hover {
 
 /*
  
-   <div class="botão_tema"><input type="button" id="tema" value="Modo Escuro" onclick="noturno(); troca()"></div>
+  
 
    input {
   color: white;
