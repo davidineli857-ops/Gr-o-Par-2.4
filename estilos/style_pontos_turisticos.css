@@ -149,9 +149,19 @@ width: 25%;
   color: white;
  }
 
+ img{
+  border: 1.8px solid white;
+ }
+
+
+
+ h3 {
+  color: blue;
+ }
+
 }
 
-
+ 
 
 
 
