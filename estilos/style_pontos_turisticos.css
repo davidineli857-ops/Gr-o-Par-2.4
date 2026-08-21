@@ -143,6 +143,12 @@ width: 25%;
   color: darkblue;
  }
 
+
+ figure {
+  background-color: rgb(95, 12, 95);
+  color: white;
+ }
+
 }
 
 
