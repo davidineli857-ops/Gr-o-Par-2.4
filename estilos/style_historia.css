@@ -120,7 +120,13 @@ width: 25%;
   color: white;
  }
 
- 
+ table thead tr th,table tbody tr th {
+  border: 1px solid white;
+ }
+
+ footer h4 {
+  color: rgb(6, 255, 255);
+ }
 }
 
  
